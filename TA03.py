@@ -29,6 +29,7 @@ while True:
     else:
        
         print("todo corecto, tu fecha de nacimiento es:",dia_usuario,"/",mes_usuario,"/",año_usuario )
+        
 
 
 
